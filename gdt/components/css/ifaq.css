@@ -1,0 +1,28 @@
+body {
+    background-image: url('gdt/images/bg/bg2.gif');
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+h1 {
+    text-align: center;
+}
+.footer {
+    text-align: center;
+    font-size: small;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+blockquote {
+    margin: 1em 40px;
+    font-style: italic;
+}
+dl dt {
+    font-weight: bold;
+    margin-top: 1.5em;
+}
+dl dd {
+    margin-left: 0;
+    margin-top: 0.5em;
+}
